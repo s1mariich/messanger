@@ -97,8 +97,9 @@ class MessengerApp:
         message_entry.pack(anchor="nw", fill="x", expand=True, side=tk.LEFT, padx=(5, 0))
 
         send_button = tk.Button(frame, text="Отправить", command=lambda: self.send_message(frm, message_entry, data))
-        send_button.bind("<Return>", self.send_message(frm, message_entry,
-                                                       data))  # попытка сделать реакцию на кнопки ентер чтоб отправить сообщение
+
+        #вот тут кнопочка не работает
+        send_button.bind("<Return>", self.send_message(frm, message_entry, data))  # попытка сделать реакцию на кнопки ентер чтоб отправить сообщение
 
         send_button.pack(side=tk.RIGHT, pady=(0, 15), padx=5)
 
@@ -210,6 +211,8 @@ class CommentApp:
 
         self.send_button = tk.Button(self.root, text="Отправить", command=self.send_comment)
         self.send_button.pack(pady=(0, 15), padx=5, side=tk.RIGHT)
+
+        # и вот тут кнопочка
 
         for i in self.data:
             self.chat_display.config(state='normal')
