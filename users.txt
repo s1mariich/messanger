@@ -1,3 +1,0 @@
-a Sofia 
-a b'\xa4\xfb\xc5\xac]LT\x80xt>\x0e\x13\r\x07L' 5aad7c7f-3746-4f8a-beab-f6fd47024fa0 
-Sofia b'\x94\xeb/\xc1\xb8\x84\x99t\x95\x99\x93%\xcd\xf6\x96\xcb' e75694d5-cbac-4381-9088-d217029e2f3d 
