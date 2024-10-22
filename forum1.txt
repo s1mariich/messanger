@@ -1,0 +1,5 @@
+
+Sofia/Hello/['Dmitriy', 'Maksim', 'Sofia']/2/2024-10-17 09:53:32.375186
+a/Hi/['a', 'Sofia']/0/2024-10-17 10:00:49.103609
+Sofia/wefghjk/[]/0/2024-10-18 18:12:46.705281
+Sofia/nicw to meet you/['Sofia']/0/2024-10-18 20:28:43.549035
